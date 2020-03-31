@@ -1,0 +1,8 @@
+# union_findexp-8
+
+Implement the Randomized median order algorithm. Run it on randomly generate arrays of size
+n=1000, 5000, 10000, 20000, 30000 and randomly requested positions k, calculate the total
+number of comparisons, for each n perform the experiment 10 times and take the average
+number of comparisons. To show the correctness of your algorithm also run the algorithm on a
+randomly generated array of size 31 and find the median. Show the output. Plot a graph of
+average number of comparisons v/s n.
